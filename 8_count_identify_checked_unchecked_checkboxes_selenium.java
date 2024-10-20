@@ -1,15 +1,15 @@
 <html>
 <body>
-    <form name="testform" action="" method="POST">
+    <form name="hello" action="" method="POS">
         <div align="center">
             <br>
-            <input id="c1" type="checkbox" name="option-1" value="Java">Java
-            <input id="c1" type="checkbox" name="option-2" value="C++">C++
-            <input id="c1" type="checkbox" name="option-3" value="Python">Python
-            <input id="c1" type="checkbox" name="option-4" value="PHP">PHP
-            <input id="c1" type="checkbox" name="option-5" value="CSharp">CSharp
-            <input id="c1" type="checkbox" name="option-6" value="Ruby">Ruby
-            <input id="c1" type="checkbox" name="option-7" value="Perl">Perl
+            <input id="c1" type="checkbox" name="option-1" value="A">Java
+            <input id="c1" type="checkbox" name="option-3" value="B">Python
+            <input id="c1" type="checkbox" name="option-2" value="C">C++
+            <input id="c1" type="checkbox" name="option-4" value="D">PHP
+            <input id="c1" type="checkbox" name="option-5" value="E">CSharp
+            <input id="c1" type="checkbox" name="option-6" value="F">Ruby
+            <input id="c1" type="checkbox" name="option-7" value="G">Perl
         </div>
     </form>
 </body>
